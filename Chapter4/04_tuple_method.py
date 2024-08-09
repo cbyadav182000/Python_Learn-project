@@ -1,0 +1,7 @@
+b=(100,700,43,100,"chandu","cb","dileep","anurag")
+print(type(b))
+print(b)
+no=b.count(100)
+print(no)
+i=b.index(100)
+print(i)
